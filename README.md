@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Hamza touirs</h1>
 <h3 align="center">A passionate of Artificial intelligence</h3>
 
